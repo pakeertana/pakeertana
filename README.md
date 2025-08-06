@@ -1,5 +1,6 @@
 ## About Me:
-I’m a Computer Science student with hands-on experience in building full-stack web applications and exploring machine learning through academic projects. I’ve worked with technologies like Next.js, Java, Python, and SQL. I enjoy solving data structure problems in C++ and applying what I learn to real-world projects. I'm always eager to grow my skills, collaborate with others, and contribute to meaningful work.
+# Hello I am P A Keertana
+I am a Computer Science student with hands-on experience in building full-stack web applications and exploring machine learning through academic projects. I’ve worked with technologies like Next.js, Java, Python, and SQL. I enjoy solving data structure problems in C++ and applying what I learn to real-world projects. I'm always eager to grow my skills, collaborate with others, and contribute to meaningful work.
 
 
 ## Socials:
